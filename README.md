@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Chrystopher+Medeiros;I'm+25+years+old;I+from+Brasil,+CE;I+study+analysis+and+systems+development+at+UNIFACS;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div
-<a href="./CV.pdf" download >Download CV?</a>
+  <a href="./componentes/CV.pdf" download >Download CV?</a>
 </div>
 
 <div align="center">  
