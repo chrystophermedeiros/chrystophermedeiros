@@ -6,7 +6,7 @@
 Sou um programador Front End, atualmente trabalho como analista de TI, iniciei uma pós-gradução em engenharia de software e fazendo o  curso Full Stack no DevClub agora estou iniciando o aprendizado React e node. 
 </p>
 
-<a href="componentes/CV.pdf" download="CV.pdf" type="aplication/pdf">![Download CV](https://img.shields.io/github/downloads/{chrystophermedeiros}/{componentes/CV.pdf}/total.svg)</a>
+<a href="componentes/CV.pdf" download="CV.pdf" type="aplication/pdf">![Download CV](https://img.shields.io/github/downloads/{chrystophermedeiros}/{../componentes/CV.pdf}/total.svg)</a>
 
 
 <div align="center">  
@@ -35,12 +35,12 @@ Sou um programador Front End, atualmente trabalho como analista de TI, iniciei u
 
 ### Tools:
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 
 <!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
 
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
+![microsoft-office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)&nbsp;
 
 ### Other Knowledge:
 
@@ -54,7 +54,7 @@ Sou um programador Front End, atualmente trabalho como analista de TI, iniciei u
 <img width="20px" height="20px" src="./componentes/logodevclub.png" />
   
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
