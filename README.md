@@ -7,7 +7,8 @@ Sou um programador Front End, atualmente trabalho como analista de TI, iniciei u
 </p>
 
 
-<h3 ><sup>Currículo:</sup> <a href="componentes/CV.pdf" download="CV.pdf" type="aplication/pdf"> <img width="10%" height="10%" src="./componentes/download.gif"/> </a></h3> 
+<h3>Currículo:</h3> 
+<a href="componentes/CV.pdf" download="CV.pdf" type="aplication/pdf"> <img width="20%" height="20%" src="./componentes/download.gif"/> </a>
   
 
 
