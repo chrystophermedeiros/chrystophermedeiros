@@ -6,7 +6,6 @@
 Sou um programador Front End, atualmente trabalho como analista de TI, iniciei uma pós-gradução em engenharia de software e fazendo o  curso Full Stack no DevClub agora estou iniciando o aprendizado React e node. 
 </p>
 
-![Download](https://img.shields.io/github/downloads/{chrystophermedeiros}/{repor-componentes/CV.pdf}/total.svg) &nbsp;
 <a href="componentes/CV.pdf" download="CV.pdf" type="aplication/pdf">Download CV</a>
 
 
