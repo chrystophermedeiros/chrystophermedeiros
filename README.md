@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Chrystopher+Medeiros;I'm+26+years+old;I+from+Brasil,+CE;I+Graduated+analysis+and+systems+development+at+UNIFACS;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<p>Sou uum programdor Front End, atualmente trabalho como analista de TI, nomento estou cursando uma pós-gradução em engenharia de software e fazendo o  curso Full Stack no Dev club, agoro estou iniciando o aprendizado com JavaScript e React. </p>
+<p>Sou um programador Front End, atualmente trabalho como analista de TI, iniciei uma pós-gradução em engenharia de software e fazendo o  curso Full Stack no DevClub <img src="componentes/logodevclub">, agoro estou iniciando o aprendizado com JavaScript e React. </p>
 
 <a href="componentes/CV.pdf" download="CV.pdf" type="aplication/pdf">Download CV</a>
 
