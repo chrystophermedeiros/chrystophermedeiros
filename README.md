@@ -8,8 +8,8 @@ Sou um programador Front End, atualmente trabalho como analista de TI, iniciei u
 
 
 <h3>Currículo:</h3> 
-<a href="https://portfolio-cms99.netlify.app/static/media/cv.b9acde7109dec62e3fde.pdf"> <img width="20%" height="20%" src="./componentes/download.gif"/> </a>
-  
+<a href="https://portfolio-cms99.netlify.app/static/media/cv.pdf"> <img width="20%" height="20%" src="./componentes/download.gif"/> </a>
+ 
 
 
 <div align="center">  
