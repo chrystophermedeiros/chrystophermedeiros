@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4832d3&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Chrystopher+Medeiros;I+from+Brasil,+CE;I+Graduated+analysis+and+systems+development+at+UNIFACS;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <p>
-Sou um programador Front End, atualmente trabalho como analista de TI, iniciei uma pós-gradução em engenharia de software e fazendo o  curso Full Stack no DevClub agora estou iniciando o aprendizado React e node. 
+Sou um Programador Front-End apaixonado por tecnologia, possuo habilidades em React, JavaScript, Node.js, Styled-components, Material UI, HTML e CSS. Tenho experiência em projetos de desenvolvimento web, oferecendo soluções personalizadas e criativas. Especializado em criar interfaces de usuário interativas e responsivas. Habilidades sólidas em bibliotecas e frameworks populares, como React, para construir aplicações web modernas e escaláveis. Focado na qualidade do código e atenção aos detalhes. Pronto para enfrentar desafios técnicos complexos de forma independente. Aberto a novas oportunidades para criar experiências digitais de alto nível. 
 </p>
 
 
@@ -34,29 +34,19 @@ Sou um programador Front End, atualmente trabalho como analista de TI, iniciei u
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 
 ### Tools:
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
-
-<!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
-
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)&nbsp;
 
-### Other Knowledge:
+<!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-<!-- ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp; -->
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 
-### Studying in this moment:
-  
-<img width="20px" height="20px" src="./componentes/logodevclub.png" />
-  
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
