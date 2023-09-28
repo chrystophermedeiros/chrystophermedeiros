@@ -8,7 +8,7 @@ Sou um Programador Front-End apaixonado por tecnologia, possuo habilidades em Re
 
 
 <h3>Currículo:</h3> 
-<a href="https://cmsportfolioprofissional.netlify.app/assets/cv-ac91b1f3.pdf"> <img width="20%" height="20%" src="./componentes/download.gif"/> </a>
+<a href="https://cmsportfolioprofissional.netlify.app/assets/cv-fe20d0b7.pdf"> <img width="20%" height="20%" src="./componentes/download.gif"/> </a>
  
 
 
