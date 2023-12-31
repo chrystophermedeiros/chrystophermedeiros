@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4832d3&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Chrystopher+Medeiros;I+from+Brasil,+CE;I+Graduated+analysis+and+systems+development+at+UNIFACS;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <p>
-Sou um Programador Front-End apaixonado por tecnologia, possuo habilidades em React, JavaScript, Node.js, Styled-components, Material UI, HTML e CSS. Tenho experiência em projetos de desenvolvimento web, oferecendo soluções personalizadas e criativas. Especializado em criar interfaces de usuário interativas e responsivas. Habilidades sólidas em bibliotecas e frameworks populares, como React, para construir aplicações web modernas e escaláveis. Focado na qualidade do código e atenção aos detalhes. Pronto para enfrentar desafios técnicos complexos de forma independente. Aberto a novas oportunidades para criar experiências digitais de alto nível. 
+Programador Front-End apaixonado por tecnologia, possuo habilidades em React, JavaScript, Node.js, Styled-components, Material UI, HTML e CSS. Tenho experiência em projetos de desenvolvimento web, oferecendo soluções personalizadas e criativas. Especializado em criar interfaces de usuário interativas e responsivas. Habilidades sólidas em bibliotecas e frameworks populares, como React, para construir aplicações web modernas e escaláveis. Focado na qualidade do código e atenção aos detalhes. Pronto para enfrentar desafios técnicos complexos de forma independente. Aberto a novas oportunidades para criar experiências digitais de alto nível. 
 </p>
 
 
@@ -32,6 +32,7 @@ Sou um Programador Front-End apaixonado por tecnologia, possuo habilidades em Re
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=black)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
