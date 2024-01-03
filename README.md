@@ -54,4 +54,4 @@ Programador Front-End apaixonado por tecnologia, possuo habilidades em React, Ja
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{chrystophermedeiros}/count.svg" /></p> 
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4832d3&height=120&section=footer"/>\*\*\*\*
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4832d3&height=120&section=footer"/>
