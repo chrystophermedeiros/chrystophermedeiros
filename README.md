@@ -10,6 +10,7 @@ Programador Front-End apaixonado por tecnologia, possuo habilidades em React, Ja
 <h3>Currículo:</h3> 
 <a href="https://cmsportfolioprofissional.netlify.app/assets/cv-fe20d0b7.pdf"> <img width="20%" height="20%" src="./componentes/download.gif"/> </a>
  
+### 🏆 GitHub Profile Trophy
 
 
 <div align="center">  
@@ -17,14 +18,6 @@ Programador Front-End apaixonado por tecnologia, possuo habilidades em React, Ja
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrystophermedeiros&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chrystophermedeiros&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-<div align="center">  
-<a href="https://www.linkedin.com/in/chrystopher-medeiros-7262041bb" target="_blank"><img src="![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)"</a>
-</div>
 
 ### Main skills:
 
