@@ -1,5 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4832d3&height=180&section=header&text=Chrystopher+Medeiros+da+Silva&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
+<img src="./componentes/notebookcafe.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4832d3&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Chrystopher+Medeiros;I+from+Brasil,+CE;I+Graduated+analysis+and+systems+development+at+UNIFACS;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <p>
