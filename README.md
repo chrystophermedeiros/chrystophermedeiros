@@ -1,25 +1,25 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4832d3&height=180&section=header&text=Chrystopher+Medeiros+da+Silva&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+
 
 <img src="./componentes/notebookcafe.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4832d3&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Chrystopher+Medeiros;I+from+Brasil,+CE;I+Graduated+analysis+and+systems+development+at+UNIFACS;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<p>
+
+<p  align="left">
 Programador Front-End apaixonado por tecnologia, possuo habilidades em React, JavaScript, TypeScript, Node.js, Styled-components, Material UI, HTML e CSS. Tenho experiência em projetos de desenvolvimento web, oferecendo soluções personalizadas e criativas. Especializado em criar interfaces de usuário interativas e responsivas. Habilidades sólidas em bibliotecas e frameworks populares, como React, para construir aplicações web modernas e escaláveis. Focado na qualidade do código e atenção aos detalhes. Pronto para enfrentar desafios técnicos complexos de forma independente. Aberto a novas oportunidades para criar experiências digitais de alto nível. 
 </p>
 
 
-<h3>Currículo:</h3> 
-<a href="https://cmsportfolioprofissional.netlify.app/assets/cv-fe20d0b7.pdf"> <img width="20%" height="20%" src="./componentes/download.gif"/> </a>
+<h3  align="left">Currículo:</h3> 
+<a href="https://cmsportfolioprofissional.netlify.app/assets/cv-fe20d0b7.pdf"> <button>Download</button> </a>
  
 ### 🏆 GitHub Profile Trophy
 
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=chrystophermedeiros&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Chrystopher Medeiros stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrystophermedeiros&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+<div width="100%" align="left">  
+  <img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api?username=chrystophermedeiros&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Chrystopher Medeiros stats" /> 
+  <img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrystophermedeiros&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="30%" height="195px" src="https://github-profile-trophy.vercel.app/?username=chrystophermedeiros&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </div>
-
 
 ### Main skills:
 
@@ -39,10 +39,21 @@ Programador Front-End apaixonado por tecnologia, possuo habilidades em React, Ja
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)&nbsp;
 
+ ### 📲 Contatos:
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{chrystophermedeiros}/count.svg" /></p> 
+<p align="left">
+  <a href="mailto:chrystopher312@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/chrystopher-medeiros" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+  <a href="https://api.whatsapp.com/send?phone=+998061512" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
+</p>
+
+### Visitors Count
+
+<div align="left">
+<p align="left"><img align="center" src="https://profile-counter.glitch.me/{chrystophermedeiros}/count.svg" /></p> 
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4832d3&height=120&section=footer"/>
+
