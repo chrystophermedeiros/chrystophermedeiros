@@ -12,15 +12,54 @@ Programador Front-End apaixonado por tecnologia, possuo habilidades em React, Ja
 <h3  align="left">Currículo:</h3> 
 <a href="https://cmsportfolioprofissional.netlify.app/assets/cv-fe20d0b7.pdf"> <button>Download</button> </a>
  
+### ⚙️ GitHub Analytics
+
+<table>
+  <tr>
+    <td>
+      <img
+        height="195"
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=chrystophermedeiros&theme=dark&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        height="195"
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrystophermedeiros&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        height="195"
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=chrystophermedeiros&theme=dark&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
+
+--- 
+
 ### 🏆 GitHub Profile Trophy
 
+<p align="center">
+  <a
+    href="https://github.com/ryo-ma/github-profile-trophy"
+    title="repositório de troféus"
+  >
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=iuricode&column=8&theme=darkhub&no-frame=true&no-bg=true"
+    />
+  </a>
+</p>
 
-<div width="100%" align="left">  
-  <img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api?username=chrystophermedeiros&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Chrystopher Medeiros stats" /> 
-  <img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrystophermedeiros&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-  <img width="30%" height="195px" src="https://github-profile-trophy.vercel.app/?username=chrystophermedeiros&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</div>
-
+---
 ### Main skills:
 
 
