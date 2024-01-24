@@ -1,6 +1,6 @@
 
 
-<img src="./componentes/notebookcafe.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="./componentes/notebookcafe.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right" top="0">
 
 
 
@@ -9,8 +9,8 @@ Programador Front-End apaixonado por tecnologia, possuo habilidades em React, Ja
 </p>
 
 
-<h3  align="left">Currículo:</h3> 
-<a href="https://cmsportfolioprofissional.netlify.app/assets/cv-fe20d0b7.pdf"> <button>Download</button> </a>
+### 📃 Currículo:
+<a href="https://cmsportfolioprofissional.netlify.app/assets/cv-fe20d0b7.pdf"> <button>Baixar currículo </button> </a>
  
 ### ⚙️ GitHub Analytics
 
