@@ -1,6 +1,6 @@
 
 
-<img src="./componentes/notebookcafe.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right" top="0">
+<img src="./componentes/notebookcafe.png" alt="ilustração de um computador" min-width="400px" max-width="350px" width="350px" align="right">
 
 <p  align="left">
 Programador Front-End apaixonado por tecnologia, possuo habilidades em React, JavaScript, TypeScript, Node.js, Styled-components, Material UI, HTML e CSS. Tenho experiência em projetos de desenvolvimento web, oferecendo soluções personalizadas e criativas. Especializado em criar interfaces de usuário interativas e responsivas. Habilidades sólidas em bibliotecas e frameworks populares, como React, para construir aplicações web modernas e escaláveis. Focado na qualidade do código e atenção aos detalhes. Pronto para enfrentar desafios técnicos complexos de forma independente. Aberto a novas oportunidades para criar experiências digitais de alto nível. 
@@ -13,49 +13,18 @@ Programador Front-End apaixonado por tecnologia, possuo habilidades em React, Ja
 --- 
 ### ⚙️ GitHub Analytics
 
-<table>
-  <tr>
-    <td>
-      <img
-        height="195"
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=chrystophermedeiros&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        height="195"
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrystophermedeiros&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        height="195"
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=chrystophermedeiros&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
+<div align="left">  
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=chrystophermedeiros&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Chrystopher Medeiros stats" /> 
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrystophermedeiros&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 
---- 
+</div>
+
+
 
 ### 🏆 GitHub Profile Trophy
 
-<p align="center">
-  <a
-    href="https://github.com/ryo-ma/github-profile-trophy"
-    title="repositório de troféus"
-  >
-    <img
-      width="800"
-      src="https://github-profile-trophy.vercel.app/?username=iuricode&column=8&theme=darkhub&no-frame=true&no-bg=true"
-    />
-  </a>
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=chrystophermedeiros&theme=dracula&row=2&no-bg=true&column=4&margin-w=15&margin-h=15" />
 </p>
 
 ---
@@ -71,7 +40,6 @@ Programador Front-End apaixonado por tecnologia, possuo habilidades em React, Ja
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 
---- 
 ### Tools:
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
@@ -97,7 +65,3 @@ Programador Front-End apaixonado por tecnologia, possuo habilidades em React, Ja
 <div align="left">
 <p align="left"><img align="center" src="https://profile-counter.glitch.me/{chrystophermedeiros}/count.svg" /></p> 
 <br></div>
-
---- 
-
-
